@@ -1,7 +1,7 @@
 //função 1
 
 function  boasvindas ( ) {
-    console . log ( "\nolaaaaa" )  //função 1
+    console . log ( "\nolaaaaa" ) 
 }
 //função 2
 
