@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pontos Turisticos de Paris</title>
+</head>
+<body>
+    <head>
+        <h1>Paris e seus pontos Turisticos</h1>
+        <h1>Torre Eiffel</h1>
+    </head>
+    <section>
+        <img src="torre-eiffel.webp" alt="" >
+        <h3>Sejam bem vindos a Torre Eiffel</h3>
+        <p>O mais icônico ponto turístico de Paris é, sem dúvida, a Torre Eiffel. Construída em 1889, a silhueta de 300 metros de altura no coração da cidade se tornou um símbolo mundial.Por receber mais de seis milhões de visitas por ano, o monumento está sempre cheio de turistas. Ainda mais no verão, época que atrai mais gente para a cidade – se você for a Paris nesta estação, compensa apostar em horários alternativos para a visita.Subir ao topo da Torre Eiffel é uma das principais atrações na cidade. Ter uma visão panorâmica de Paris lá de cima é uma experiência única. A torre é dividida em três níveis, e o meio mais disputado para subí-los é o elevador (sempre com filas). Porém, se estiver com disposição dia, é possível ir pelas escadas até o segundo segundo nível – são mais 1.500 degraus e de lá pegar um elevador para o ponto mais alto.As duas opções são pagas, porém ir de escada é mais barato é, o melhor, mais rápido e super possível.Após conhecer o monumento por dentro, aproveite para fazer um piquenique no Jardim do Trocadéro, ao redor da torre, se o tempo estiver propício.
+        </p>
+    </section>
+    <div>
+        <h1>Jardim du luxemburgo</h1>
+    </div>
+    <section>
+        <img src="jardin-du-luxembourg.jpg.webp" alt="">
+        <h3>Sejam bem vindos ao Jardim du luxemburgo</h3>
+        <p>Mais de 20 hectares (200 mil m²) de flores, estátuas, fontes e a mais pura paz. Paris tem muitos jardins, mas o Jardim de Luxemburgo é um dos mais bonitos.O local, que hoje é mantido pela prefeitura da capital francesa, começou a ser construído a mando da rainha Maria de Médici (segunda esposa do rei Henrique IV), no século XVII. Depois, foram anos de incrementações e expansão das áreas verdes que hoje completam o lugar.O mais legal é que a entrada é de graça e o passeio é bem democrático, ideal para todos, inclusive crianças (eles vão adorar o teatro de marionetes de lá). O espaço tem quadras de tênis, basquete e até mesmo de bocha. É uma boa pedida para um dia divertido, cheio de atividades.O horário de funcionamento varia conforme as estações do ano, (como acontece com a maioria dos pontos turisticos em Paris). Normalmente abre às 8h e fecha às 17h, mas no verão (julho e agosto), fica aberto até as 21h. Para chegar até lá você pode pegar a linha 12 do metrô e parar na estação Notre Dame des Champs.
+        </p>
+    </section>
+    <div>
+        <h1> Rio Sena</h1>
+    </div>
+    <section>
+        <img src="rio-sena-paris-1024x571.jpg.webp" alt="">
+        <h3>Sejam bem vindos ao Rio Sena</h3>
+        <p>O rio Sena banha Paris, deságua no oceano atlântico e tem uma extensão de mais ou menos 775 Km. Possui mais de 3 pontes, incluindo as Pont Neuf, Pont des Arts e Pont Alexandre III.Caminhar às margens do rio é atividade obrigatória para quem está na capital francesa. O rio é de uma beleza sutil e o clima romântico desta região da cidade adiciona uma atmosfera deliciosa ao passeio. Caso você tenha interesse em mais do que só uma voltinha a pé para conhecer o Sena, também é possível fazer passeios de barco ou lancha no rio, com festas, jantares e uma infinidade de opções para escolher.
+        </p>
+    </section>
+</body>
+</html>
